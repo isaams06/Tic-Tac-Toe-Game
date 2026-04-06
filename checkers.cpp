@@ -1,17 +1,3 @@
-/*****************************************
-** File: proj1.cpp
-** Project: CMSC 202 Project 1, Spring 2025
-** Author: Isaam Sayed
-** Date: 20 February 2025
-** Section: 12
-** E-mail: isaams1@umbc.edu
-**
-** This file contains project 1, which was to write a tic tac toe program.
-** The program is able to notice the rules of the game such as draw and win condition.
-**
-***********************************************/
-
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
