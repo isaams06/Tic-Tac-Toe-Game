@@ -14,7 +14,7 @@ thorough and straightforward.
 '''
 g++ -o tictactoe tictactoe.cpp
 ./tictactoe
-'''
+
 
 ## Sample Output:
 ```
