@@ -10,6 +10,7 @@ thorough and straightforward.
 
 Compilation and Running:
 g++ -o tictactoe tictactoe.cpp
+
 ./tictactoe
 
 Sample Output:
