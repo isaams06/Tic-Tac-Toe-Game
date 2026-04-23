@@ -13,7 +13,7 @@ g++ -o tictactoe tictactoe.cpp
 ./tictactoe
 
 Sample Output:
-
+```
 Welcome to Tic-Tac-Toe
 What would you like to do? 
 1. Play New Game 
@@ -30,3 +30,4 @@ Current board:
  _ _ _
  _ X _
  _ _ _
+```
