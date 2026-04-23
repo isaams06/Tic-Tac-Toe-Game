@@ -11,10 +11,10 @@ for myself such as 2D arrays, input validation, file input and output, and game 
 thorough and straightforward. 
 
 ## Compilation and Running:
-```bash
+```
 g++ -o tictactoe tictactoe.cpp
 ./tictactoe
-'''
+```
 
 ## Sample Output:
 ```
