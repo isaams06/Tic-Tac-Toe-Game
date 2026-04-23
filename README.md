@@ -7,14 +7,25 @@ The game continus until a 3 in a row win condition is met, or until the board is
 
 ## Purpose
 The purpose of this project at the time I worked on it was a way to practice (at the time) new concepts
-for myself such as 2D arrays, input validation, file input and output, and game logic as the rules were
-thorough and straightforward. 
+such as:
+- 2D arrays
+- Input validation
+- Game logic implementation
+- File input/output
+- User interaction in a console environment
 
 ## Compilation and Running:
 ```
 g++ -o tictactoe tictactoe.cpp
 ./tictactoe
 ```
+
+## Key Features
+- 2 player based gameplay
+- Input validation for row and column selection
+- Dynamic board updates after each move
+- Win detection (rows, columns, diagonals)
+- Draw detection once board is full
 
 ## Sample Output:
 ```
@@ -35,3 +46,6 @@ Current board:
  _ X _
  _ _ _
 ```
+
+## My Contribution
+This project was implemented entirely by me as part of core coursework. I used my knowledge of arrays, input, win conditions, and check to handle the game logic. This helped me condense and structure the program to get the functionalities I intended. 
