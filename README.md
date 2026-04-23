@@ -1,4 +1,6 @@
-Project Overview:
+Tic-Tac-Toe (C++ Console Game)
+
+Project Overview
 The project is just a simple implementation of the classic Tic Tac Toe game. It's written in C++
 and allows two users to take turns and play the game, with the first person choosing the symbol of their choice.
 The game continus until a 3 in a row win condition is met, or until the board is filled up.
