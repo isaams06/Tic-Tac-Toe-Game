@@ -12,7 +12,7 @@ such as:
 - Input validation
 - Game logic implementation
 - File input/output
-- 
+
 ## Compilation and Running:
 ```
 g++ -o tictactoe tictactoe.cpp
