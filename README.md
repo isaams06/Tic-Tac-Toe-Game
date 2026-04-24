@@ -3,7 +3,7 @@
 ## Project Overview
 The project is just a simple implementation of the classic Tic Tac Toe game. It's written in C++
 and allows two users to take turns and play the game, with the first person choosing the symbol of their choice.
-The game continus until a 3 in a row win condition is met, or until the board is filled up.
+The game continues until a 3 in a row win condition is met, or until the board is filled up.
 
 ## Purpose
 The purpose of this project at the time I worked on it was a way to practice (at the time) new concepts
@@ -12,8 +12,7 @@ such as:
 - Input validation
 - Game logic implementation
 - File input/output
-- User interaction in a console environment
-
+- 
 ## Compilation and Running:
 ```
 g++ -o tictactoe tictactoe.cpp
